@@ -1,0 +1,3 @@
+class Simple {
+public static void main(String args[]) {
+System.out.println(" hai hello haow r u?");}
